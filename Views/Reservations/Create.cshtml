@@ -1,0 +1,67 @@
+﻿@model SystemeHotel.Models.Reservation
+
+@{
+    ViewData["Title"] = "Créer une réservation";
+}
+
+<h1>Créer une réservation</h1>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (ViewData.ModelState.ContainsKey("") && ViewData.ModelState[""].Errors.Any())
+            {
+                <div class="alert alert-danger">
+                    @string.Join("<br/>", ViewData.ModelState[""].Errors.Select(e => e.ErrorMessage))
+                </div>
+            }
+
+            <!-- Client -->
+            <div class="form-group">
+                <label asp-for="ClientId" class="control-label"></label>
+                <select asp-for="ClientId" asp-items="ViewBag.ClientId ?? new Microsoft.AspNetCore.Mvc.Rendering.SelectList(Enumerable.Empty<SelectListItem>())" class="form-control">
+                    <option value="">-- Sélectionner un client --</option>
+                </select>
+                <span asp-validation-for="ClientId" class="text-danger"></span>
+            </div>
+
+            <!-- Chambre -->
+            <div class="form-group">
+                <label asp-for="ChambreId" class="control-label"></label>
+                <select asp-for="ChambreId" asp-items="ViewBag.ChambreId ?? new Microsoft.AspNetCore.Mvc.Rendering.SelectList(Enumerable.Empty<SelectListItem>())" class="form-control">
+                    <option value="">-- Sélectionner une chambre --</option>
+                </select>
+                <span asp-validation-for="ChambreId" class="text-danger"></span>
+            </div>
+
+            <!-- Date de début -->
+            <div class="form-group">
+                <label asp-for="DateDebut" class="control-label"></label>
+                <input asp-for="DateDebut" class="form-control" type="date" />
+                <span asp-validation-for="DateDebut" class="text-danger"></span>
+            </div>
+
+            <!-- Date de fin -->
+            <div class="form-group">
+                <label asp-for="DateFin" class="control-label"></label>
+                <input asp-for="DateFin" class="form-control" type="date" />
+                <span asp-validation-for="DateFin" class="text-danger"></span>
+            </div>
+
+            <br />
+            <button type="submit" class="btn btn-primary">Créer</button>
+            <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

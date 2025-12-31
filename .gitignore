@@ -1,0 +1,44 @@
+# Binaries and build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+
+# Node modules (if any)
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Migration snapshots (optional - uncomment if you want to exclude)
+# Migrations/*.Designer.cs

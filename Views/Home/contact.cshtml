@@ -1,0 +1,49 @@
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "_Layout";
+}
+
+<!--  contact -->
+<div class="contact">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="titlepage">
+               <h2>Contact Us</h2>
+               <p>Get in touch with us for reservations, inquiries, or feedback</p>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-md-6">
+            <form id="request" class="main_form">
+               <div class="row">
+                  <div class="col-md-12 ">
+                     <input class="contactus" placeholder="Your Name" type="text" name="Name">
+                  </div>
+                  <div class="col-md-12">
+                     <input class="contactus" placeholder="Your Email" type="email" name="Email">
+                  </div>
+                  <div class="col-md-12">
+                     <input class="contactus" placeholder="Phone Number" type="tel" name="Phone">
+                  </div>
+                  <div class="col-md-12">
+                     <textarea class="textarea" placeholder="Your Message" type="text" name="Message">Your message here...</textarea>
+                  </div>
+                  <div class="col-md-12">
+                     <button class="send_btn">Send Message</button>
+                  </div>
+               </div>
+            </form>
+         </div>
+         <div class="col-md-6">
+            <div class="map_main">
+               <div class="map-responsive">
+                  <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&amp;q=Eiffel+Tower+Paris+France" width="600" height="400" frameborder="0" style="border:0; width: 100%;" allowfullscreen=""></iframe>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- end contact -->

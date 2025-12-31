@@ -1,0 +1,21 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using SystemeHotel.Models;
+
+namespace SystemeHotel.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly HotelDbContext _context;
+
+        public HomeController(HotelDbContext context)
+        {
+            _context = context;
+        }
+
+        public IActionResult Index()
+        {
+            // Retour explicite vers la vue pour éviter les erreurs de résolution
+            return View("~/Views/Home/Index.cshtml");
+        }
+    }
+}

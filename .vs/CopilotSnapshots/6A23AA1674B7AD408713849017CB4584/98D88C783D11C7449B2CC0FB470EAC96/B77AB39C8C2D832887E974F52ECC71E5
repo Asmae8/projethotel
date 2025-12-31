@@ -1,0 +1,28 @@
+﻿using Microsoft.EntityFrameworkCore;
+using SystemeHotel;
+using SystemeHotel.Models;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Ajouter MVC
+builder.Services.AddControllersWithViews();
+
+// Ajouter DbContext
+builder.Services.AddDbContext<HotelDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+var app = builder.Build();
+
+// Middleware
+app.UseStaticFiles();
+app.UseRouting();
+
+app.UseAuthorization();
+
+// ROUTAGE MVC
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.Run();
+

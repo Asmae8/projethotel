@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-16aa236a-b774-40ad-8713-849017cb4584.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\controllers\\chambrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:controllers\\chambrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\chambres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\chambres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\controllers\\facturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:controllers\\facturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\systemehotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:systemehotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\models\\statutchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:models\\statutchambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:models\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|c:\\users\\pc\\onedrive\\desktop\\hotel\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E62541CC-EFED-4689-89FF-CFBC8D3E7260}|SystemeHotel.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:46:22.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:08:56.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:01:56.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAABRwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:55:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:36:46.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plan-16aa236a-b774-40ad-8713-849017cb4584.md",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-16aa236a-b774-40ad-8713-849017cb4584.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-16aa236a-b774-40ad-8713-849017cb4584.md",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-16aa236a-b774-40ad-8713-849017cb4584.md",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-16aa236a-b774-40ad-8713-849017cb4584.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-22T14:39:37.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Data\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Data\\HotelDbContext.cs",
+              "RelativeToolTip": "Data\\HotelDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:41:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-10T10:36:43.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Home\\gallery.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\gallery.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Home\\gallery.cshtml",
+              "RelativeToolTip": "Views\\Home\\gallery.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAIBJwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:08:26.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T10:36:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:04:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:04:55.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:04:52.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAABhwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:04:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:12:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Chambres\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chambres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Chambres\\Create.cshtml",
+              "RelativeToolTip": "Views\\Chambres\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T13:32:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChambresController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\ChambresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChambresController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\ChambresController.cs",
+              "RelativeToolTip": "Controllers\\ChambresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:11:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:58:58.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FacturesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\FacturesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturesController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Controllers\\FacturesController.cs",
+              "RelativeToolTip": "Controllers\\FacturesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T11:13:10.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SystemeHotel.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\SystemeHotel.csproj",
+              "RelativeDocumentMoniker": "SystemeHotel.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\SystemeHotel.csproj",
+              "RelativeToolTip": "SystemeHotel.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAABBwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T10:41:10.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T16:10:16.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Reservations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Reservations\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T16:10:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T15:39:46.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatutChambre.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\StatutChambre.cs",
+              "RelativeDocumentMoniker": "Models\\StatutChambre.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\StatutChambre.cs",
+              "RelativeToolTip": "Models\\StatutChambre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T23:19:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Chambre.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Chambre.cs",
+              "RelativeDocumentMoniker": "Models\\Chambre.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Chambre.cs",
+              "RelativeToolTip": "Models\\Chambre.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:00:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Paiement.cs",
+              "RelativeDocumentMoniker": "Models\\Paiement.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Paiement.cs",
+              "RelativeToolTip": "Models\\Paiement.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:40:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Facture.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Facture.cs",
+              "RelativeDocumentMoniker": "Models\\Facture.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Facture.cs",
+              "RelativeToolTip": "Models\\Facture.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:39:26.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Hotel\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:01:00.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

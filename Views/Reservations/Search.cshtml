@@ -1,0 +1,75 @@
+@model IEnumerable<SystemeHotel.Models.Chambre>
+
+@{
+    ViewData["Title"] = "Rechercher une chambre";
+}
+
+<h1>Réserver une chambre</h1>
+
+@if (Model != null && Model.Any())
+{
+    <h4>Chambres disponibles du @ViewBag.DateDebut.ToString("dd/MM/yyyy") au @ViewBag.DateFin.ToString("dd/MM/yyyy") - Type: @ViewBag.TypeChambre</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Numéro</th>
+                <th>Type</th>
+                <th>Prix par nuit</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var chambre in Model)
+            {
+                <tr>
+                    <td>@chambre.Numero</td>
+                    <td>@chambre.Type</td>
+                    <td>@chambre.Prix €</td>
+                    <td>
+                        <a asp-action="Create" asp-route-chambreId="@chambre.Id" asp-route-dateDebut="@ViewBag.DateDebut" asp-route-dateFin="@ViewBag.DateFin" class="btn btn-primary">Réserver</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (ViewBag.DateDebut != null)
+{
+    <p>Aucune chambre disponible pour ces dates et ce type.</p>
+}
+
+<hr />
+
+<h4>Rechercher des chambres</h4>
+<form asp-action="Search" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label for="dateDebut">Date d'arrivée</label>
+        <input type="date" id="dateDebut" name="dateDebut" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="dateFin">Date de départ</label>
+        <input type="date" id="dateFin" name="dateFin" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="typeChambre">Type de chambre</label>
+        <select id="typeChambre" name="typeChambre" class="form-control" required>
+            <option value="">Sélectionner un type</option>
+            @foreach (var type in ViewBag.TypesChambres)
+            {
+                <option value="@type">@type</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Rechercher" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Retour à la liste</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
